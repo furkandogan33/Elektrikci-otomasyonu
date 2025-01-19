@@ -1,0 +1,2 @@
+# Elektrikci-otomasyonu
+ otomasyon
